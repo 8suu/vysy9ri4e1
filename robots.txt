@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:https://hokiwin77.docs.ddo.sfa.atos.net/sitemap.xml
